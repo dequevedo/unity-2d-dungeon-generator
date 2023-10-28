@@ -1,0 +1,726 @@
+fileFormatVersion: 2
+guid: 8c77b7d7316e8284a95d2850c1607c26
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SciFiTileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93111f3292cb2848b9116e28830ce4b
+      internalID: -1313286685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiTileset_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127, y: 128}
+        - {x: -128, y: 124}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -115, y: 128}
+        - {x: -128, y: 114}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0.3
+      bones: []
+      spriteID: 398eb0fa523d55d469e1b0d36978efb9
+      internalID: -1473199206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiTileset_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 124}
+        - {x: 127, y: 128}
+      physicsShape:
+      - - {x: -115, y: 128}
+        - {x: -128, y: 114}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 114}
+        - {x: 115, y: 128}
+      tessellationDetail: 0.3
+      bones: []
+      spriteID: e06aa9a9c203db74291858a116e1b87e
+      internalID: 554731809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiTileset_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127, y: 128}
+        - {x: -128, y: 124}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -115, y: 128}
+        - {x: -128, y: 114}
+        - {x: -128, y: -128}
+        - {x: 115, y: -128}
+        - {x: 128, y: -114}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07c86ed25150af448f77dc8c949c1aa
+      internalID: 758641116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiTileset_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -121, y: 128}
+        - {x: -128, y: 115}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd441702692c5f14c8bec3ad24500744
+      internalID: -1005674743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiTileset_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 127}
+        - {x: 127, y: 128}
+      physicsShape:
+      - - {x: -115, y: 128}
+        - {x: -128, y: 114}
+        - {x: -128, y: -113}
+        - {x: -120, y: -122}
+        - {x: -114, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 127}
+        - {x: 119, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08f18fd3174229419122de1a3b382b8
+      internalID: -643324891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiTileset_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 115}
+        - {x: 108, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 115}
+        - {x: 74, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58138bc159922c4ba4f5ac73b56493b
+      internalID: 1259016881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiTileset_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -114, y: 128}
+        - {x: -128, y: 125}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 123}
+        - {x: 97, y: 128}
+      physicsShape:
+      - - {x: -105, y: 128}
+        - {x: -128, y: 125}
+        - {x: -128, y: -128}
+        - {x: 115, y: -128}
+        - {x: 128, y: -114}
+        - {x: 128, y: 121}
+        - {x: 101, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347c22edbc28bec49856dadc9b053860
+      internalID: 262190428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiTileset_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: 117}
+        - {x: 84, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -124}
+        - {x: -127, y: -128}
+        - {x: 128, y: -128}
+      physicsShape:
+      - - {x: -77, y: 128}
+        - {x: -128, y: 115}
+        - {x: -128, y: -113}
+        - {x: -120, y: -122}
+        - {x: -114, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 117}
+        - {x: 57, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaefd95a2371f0b4ababe11cb695d4f1
+      internalID: -407644240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiTileset_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -114, y: 128}
+        - {x: -128, y: 125}
+        - {x: -128, y: -124}
+        - {x: -127, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 123}
+        - {x: 100, y: 128}
+      physicsShape:
+      - - {x: -120, y: 128}
+        - {x: -128, y: 126}
+        - {x: -128, y: -128}
+        - {x: 115, y: -128}
+        - {x: 128, y: -114}
+        - {x: 128, y: 126}
+        - {x: 111, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db791df59dc3f9040b89c500702861b6
+      internalID: 1877844724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiTileset_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -124}
+        - {x: 128, y: 115}
+        - {x: 108, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -117}
+        - {x: -64, y: -128}
+        - {x: -19, y: -128}
+        - {x: -12, y: -121}
+        - {x: 10, y: -128}
+        - {x: 107, y: -128}
+      physicsShape:
+      - - {x: 128, y: -119}
+        - {x: 128, y: 128}
+        - {x: -92, y: 128}
+        - {x: -128, y: 122}
+        - {x: -128, y: -117}
+        - {x: -61, y: -128}
+        - {x: -19, y: -128}
+        - {x: -14, y: -121}
+        - {x: 19, y: -128}
+        - {x: 126, y: -128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5529df9ce4b769843a4c62b255ced63b
+      internalID: -1781552390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiTileset_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -111, y: 27}
+        - {x: -112, y: -18}
+        - {x: -112, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 114}
+        - {x: 5, y: 114}
+        - {x: -44, y: 111}
+      physicsShape:
+      - - {x: -111, y: 33}
+        - {x: -111, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 114}
+        - {x: 0, y: 114}
+        - {x: -43, y: 111}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a12f7bcc9e54145bb92b6a37810722
+      internalID: -1785372024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiTileset_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -111, y: 27}
+        - {x: -112, y: -18}
+        - {x: -112, y: -128}
+        - {x: 127, y: -128}
+        - {x: 128, y: -124}
+        - {x: 128, y: 114}
+        - {x: 5, y: 114}
+        - {x: -44, y: 111}
+      physicsShape:
+      - - {x: -111, y: 33}
+        - {x: -111, y: -128}
+        - {x: 115, y: -128}
+        - {x: 128, y: -114}
+        - {x: 128, y: 114}
+        - {x: 0, y: 114}
+        - {x: -43, y: 111}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b27a609e81d4746a73dc67684c44f4
+      internalID: -1850324250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiTileset_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115, y: 128}
+        - {x: -128, y: 122}
+        - {x: -128, y: -128}
+        - {x: 95, y: -128}
+        - {x: 128, y: -52}
+        - {x: 128, y: 73}
+        - {x: 43, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -118}
+        - {x: -114, y: -128}
+        - {x: 107, y: -128}
+        - {x: 128, y: -117}
+        - {x: 128, y: 54}
+        - {x: 68, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795319214504dda4b871c9ac25de54c2
+      internalID: -1908870326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiTileset_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 128}
+        - {x: -128, y: 75}
+        - {x: -128, y: -73}
+        - {x: -54, y: -128}
+        - {x: 41, y: -128}
+        - {x: 128, y: -62}
+        - {x: 128, y: 67}
+        - {x: 59, y: 128}
+      physicsShape:
+      - - {x: -62, y: 128}
+        - {x: -128, y: 54}
+        - {x: -128, y: -50}
+        - {x: -127, y: -61}
+        - {x: -50, y: -128}
+        - {x: 73, y: -128}
+        - {x: 128, y: -54}
+        - {x: 128, y: 41}
+        - {x: 66, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774addf1082628143b3dc66f3994f64e
+      internalID: 59395615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiTileset_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160f448bf56a6094faf74cef2c0b090f
+      internalID: 1647498147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiTileset_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22ac261744492b4d92c8106281fd64b
+      internalID: 1797590840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiTileset_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 255
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d832e86c407d9084eb0a7e7f8b55d75a
+      internalID: 1204745395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SciFiTileset_0: -1313286685
+      SciFiTileset_1: -1473199206
+      SciFiTileset_10: -1781552390
+      SciFiTileset_11: -1785372024
+      SciFiTileset_12: -1850324250
+      SciFiTileset_13: -1908870326
+      SciFiTileset_14: 59395615
+      SciFiTileset_15: 1647498147
+      SciFiTileset_16: 1797590840
+      SciFiTileset_17: 1204745395
+      SciFiTileset_18: -136436666
+      SciFiTileset_19: 1292692086
+      SciFiTileset_2: 554731809
+      SciFiTileset_20: 469856328
+      SciFiTileset_21: 1949804482
+      SciFiTileset_22: 752927063
+      SciFiTileset_23: -1187865774
+      SciFiTileset_24: -668010553
+      SciFiTileset_25: 1144186209
+      SciFiTileset_26: -1750862522
+      SciFiTileset_27: 1490461805
+      SciFiTileset_28: 765327011
+      SciFiTileset_29: -1039834437
+      SciFiTileset_3: 758641116
+      SciFiTileset_30: -420663821
+      SciFiTileset_31: -1636227398
+      SciFiTileset_32: 957198068
+      SciFiTileset_4: -1005674743
+      SciFiTileset_5: -643324891
+      SciFiTileset_6: 1259016881
+      SciFiTileset_7: 262190428
+      SciFiTileset_8: -407644240
+      SciFiTileset_9: 1877844724
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

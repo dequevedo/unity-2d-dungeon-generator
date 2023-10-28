@@ -1,0 +1,4 @@
+repository "Midjourney"
+  path "/"
+    br "/main"
+    co "/main"
